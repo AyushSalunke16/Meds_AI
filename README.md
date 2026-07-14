@@ -1,8 +1,6 @@
-# GDHS_dev_dynamos
+# HEALTH AI
 
-## 🩺 GDHS Dev Dynamos – Multi‑Agent Medical AI
 
-Built for the Global Digital Health Summit Hackathon 🏆. This repository contains a full‑stack, multi‑agent medical reasoning system:
 
 - Backend: FastAPI + LangChain/LangGraph orchestrating specialized agents (symptom analysis, literature, case matching, treatments, final summary)
 - Frontend: Vite + React + TypeScript UI for case entry, stepwise results, and downloadable PDF report
